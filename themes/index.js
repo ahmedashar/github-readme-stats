@@ -430,6 +430,12 @@ export const themes = {
     border_color: "ffffff",
     bg_color: "000000",
   },
+  mystical: {
+  title_color: "b07cff",
+  icon_color: "ffa500",
+  text_color: "ffffff",
+  bg_color: "2d1339",
+},
 };
 
 export default themes;
